@@ -1,4 +1,4 @@
-# coding-hours
+# Coding Hours
 
 The main purpose of this program is to let users log their coding hours for certain dates. 
 Each entry will contain a date and hours for that date.
